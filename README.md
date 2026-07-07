@@ -1,1 +1,1 @@
-# AI-Resume-Analyzer
+# Portfolio Project
